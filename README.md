@@ -5,7 +5,7 @@ Arduino ILI9341 Examples
 # Video Tutorial
 
 <p align="center">
-  <img src="preview.jpg" alt="ILI9341 DISPLAY TUTORIAL WITH ARDUINO" width="800">
+  <img src="preview.jpg" alt="ILI9341 DISPLAY TUTORIAL WITH ARDUINO" width="960">
 </p>
 
 <p align="center">
