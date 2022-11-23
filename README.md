@@ -1,6 +1,11 @@
 # Arduino ILI9341 Examples
 
-Arduino ILI9341 Examples
+This repository contains all the projects that I am using on the YouTube video which are the following:
+
+1. A simple Graphics test using an Arduino Uno and the ILI9348 display.
+2. A Real Time Clock project
+3. A touch screen demo
+4
 
 # Video Tutorial
 
